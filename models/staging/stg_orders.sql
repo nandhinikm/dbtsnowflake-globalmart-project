@@ -7,6 +7,7 @@ o.shipmode,
 o.shipdate,
 ---from raw customer
 c.customername,
+c.customerid
 c.segment,
 c.country,
 --from product
