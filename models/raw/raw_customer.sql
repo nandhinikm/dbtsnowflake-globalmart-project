@@ -6,4 +6,4 @@
 
 
 
-select * from {{ source('globalmart', 'customer') }}
+select * from {{ source('globalmart', 'customers') }}
