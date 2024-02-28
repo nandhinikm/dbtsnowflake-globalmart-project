@@ -1,1 +1,0 @@
-select 'nandhini' as name ,'apple' as company
