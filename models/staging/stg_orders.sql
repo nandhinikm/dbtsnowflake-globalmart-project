@@ -11,6 +11,7 @@ c.segment,
 c.country,
 --from product
 p.category,
+p.productid,
 p.productname,
 p.subcategory,
 o.ordersellingprice -o.ordercostprice as orderprofit,
